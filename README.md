@@ -5,7 +5,7 @@
 
 ## 📸 Organigrama del Equipo
 
-| !(img/carlos.jpg) |
+| !(img/organigrama.png) |
 
 ## 📌 Acerca del Proyecto
 Os contaremos mas avances de nuestra mision primaria y secundaria.
