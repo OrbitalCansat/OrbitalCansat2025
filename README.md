@@ -5,7 +5,7 @@
 
 ## 📸 Organigrama del Equipo
 
-| !(img/organigrama.jpg) |
+![Organigrama](https://github.com/OrbitalCansat/OrbitalCansat2025/blob/main/img/organigrama.jpg)
 
 ## 📌 Acerca del Proyecto
 Os contaremos mas avances de nuestra mision primaria y secundaria.
