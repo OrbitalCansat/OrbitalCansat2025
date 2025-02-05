@@ -1,2 +1,13 @@
 # OrbitalCansat2025
- Documentacion y archivos del proyecto Cansat
+# 👥 Nuestro Equipo 🚀
+
+¡Bienvenido a nuestro proyecto! Somos un equipo participante en la competición Cansat 2025.
+
+## 📸 Organigrama del Equipo
+
+| !(img/carlos.jpg) |
+
+## 📌 Acerca del Proyecto
+Os contaremos mas avances de nuestra mision primaria y secundaria.
+
+✨ **Síguenos y colabora con nosotros!** ✨
